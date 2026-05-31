@@ -1,1 +1,1 @@
-# sales-demands-forecasting
+# sales-demand-forecasting
